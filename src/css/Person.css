@@ -1,0 +1,58 @@
+
+#person{
+    width:1800px;
+    height:300px;
+    
+    margin:10px;
+    float:left;
+    border-bottom:2px solid black;
+}
+#person>img{
+    float:left;
+    width:15%;
+    height:100%;
+    margin-right: 20px;
+
+}
+#person>div:nth-child(2){
+    width:20%;
+    height:10%;
+
+    font-size: 20px;
+}
+#person>div:nth-child(3){
+    width:30%;
+    height:10%;
+
+    font-size: 20px;
+}
+#person>div:nth-child(4){
+    width:30%;
+    height:10%;
+
+    font-size: 20px;
+}
+#person>div:nth-child(5){
+    width:20%;
+    height:10%;
+
+    font-size: 20px;
+}
+#person>div:nth-child(6){
+    width:40%;
+    height:10%;
+
+    font-size: 20px;
+}
+#person>div:nth-child(7){
+    width:40%;
+    height:10%;
+
+    font-size: 20px;
+}
+#person>div:nth-child(8){
+    width:40%;
+    height:10%;
+
+    font-size: 20px;
+}
